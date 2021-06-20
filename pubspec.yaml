@@ -1,7 +1,8 @@
 name: paystack_trans_charges_to_cus
 description: A new Flutter project Util Library for passing Paystack transaction charges to customer
 version: 0.0.1
-homepage:
+homepage: https://github.com/olaitanade/paystack_trans_charges_to_cus
+repository: https://github.com/olaitanade/paystack_trans_charges_to_cus
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
